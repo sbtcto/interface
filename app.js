@@ -550,7 +550,7 @@ const getAirdrop = async () => {
                 Swal.fire({
                     title: 'Claim Success',
                     icon: 'success',
-                    html: '+7 SBitcoin sent to your wallet.',
+                    html: '+8 SBitcoin sent to your wallet.',
                     showCloseButton: true,
                     showCancelButton: true,
                     focusConfirm: false,

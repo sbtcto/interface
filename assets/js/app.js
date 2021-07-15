@@ -550,7 +550,7 @@ const getAirdrop = async () => {
                 Swal.fire({
                     title: 'Claim Success',
                     icon: 'success',
-                    html: '+7 SBitcoin sent to your wallet.',
+                    html: '+8 SBitcoin sent to your wallet.',
                     showCloseButton: true,
                     showCancelButton: true,
                     focusConfirm: false,
@@ -764,7 +764,7 @@ function addToWallet() {
                 'type': 'ERC20',
                 'options': {
                     'address': '0x5247d28c170634277b64d880af9b7775e2e2bbf6',
-                    'symbol': 'APPL',
+                    'symbol': 'SBTC',
                     'decimals': '18',
                     'image': 'https://sbtc.to/images/logo.png',
                 },
